@@ -35,7 +35,7 @@ body{
 }
 .left-content{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(200px,0.5fr));
+    grid-template-columns: repeat(auto-fit,minmax(270px,0.5fr));
     grid-gap:2rem;
 }
 .card{
