@@ -2,7 +2,7 @@
 
 ### Features
 
-- A fully completed pokedex with information about every pokemon, thanks to the integration of PokeAPI.
+- A fully completed pokedex with information about every pokemon thanks to the integration of PokeAPI.
 - Click on a pokemon on the left side to display more information.
 - Use the next and prev buttons to navigate through the vast amount on pokemon documented.
 
